@@ -1,2 +1,2 @@
 # Deep Learning HCMUS
- My deep learning homework at HCMUS
+ My Deep Learning homework at HCMUS
